@@ -1,0 +1,8 @@
+banana
+orange
+pineapple
+strawberry
+watermelon
+cherry
+mango
+pear

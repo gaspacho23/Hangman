@@ -1,3 +1,8 @@
-крокодил
-жираф
-пингвин
+crocodile
+giraffe
+penguin
+elephant
+dolphin
+kangaroo
+squirrel
+hedgehog
